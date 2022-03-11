@@ -1,2 +1,11 @@
-# games
-Ein interaktives Sales Dashboard für die Verkäufe von Videospielen zwischen 1980 und 2020. Das Dashboard kann nach Publisher, Jahr und Region gefiltert werden.
+# Video Game Sales
+
+Dieses Repo enthält ein PowerBI Dashboard und einen Screenshot von diesem für einen groben Einblick in das Dashboard für jene Personen, ohne Microsofts PowerBI.
+
+## Daten
+
+Die ungesäuberten, nicht transformierten Daten kommen von [Kaggle.](https://www.kaggle.com/gregorut/videogamesales/)
+
+## Dashboard
+
+
