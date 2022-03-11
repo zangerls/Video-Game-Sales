@@ -8,4 +8,4 @@ Die ungesäuberten, nicht transformierten Daten kommen von [Kaggle.](https://www
 
 ## Dashboard
 
-
+![Dashboard Preview](https://github.com/zangerls/Video-Game-Sales/blob/main/Dashboard%20Preview.jpg)
